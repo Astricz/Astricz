@@ -2,4 +2,5 @@
 I'm Astricz, I'm a beginner programmer!
 
 | Programming Languages ⌨️ |
+
 HTML, CSS, Lua, Javascript, Python
